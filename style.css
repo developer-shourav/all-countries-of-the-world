@@ -14,3 +14,19 @@
 h1{
     text-align: center;
 }
+img{
+    width:100%;
+}
+.countries{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+    margin: 0 auto;
+   
+}
+.country{
+   border: 2px solid goldenrod;
+   margin: 0 auto;
+   padding: 20px;
+   
+}
