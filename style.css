@@ -28,5 +28,6 @@ img{
    border: 2px solid goldenrod;
    margin: 0 auto;
    padding: 20px;
-   
+   border-radius: 5px;
+   box-shadow: 1px 1px 10px black;
 }
