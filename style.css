@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+/* ------------Custom Fonts---------------- */
+
+
+/* ------------Common Styles------------ */
+
+*{
+    
+    font-family: 'Heebo', sans-serif;
+}
+
+
+h1{
+    text-align: center;
+}
